@@ -15,3 +15,5 @@ install command
 3)plyer
 install command 
 >pip install plyer
+
+![](c1.PNG)
