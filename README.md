@@ -17,3 +17,5 @@ install command
 >pip install plyer
 
 ![](c1.PNG)
+
+![](c2.PNG)
