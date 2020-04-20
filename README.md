@@ -36,7 +36,7 @@ install command
 >Download the project by clicking on the ![](c3.PNG) which is on the up-right
 
 ## Run python project in VScode or pycharm
->NOte : before running in the vs code setup the environment of python
+>Note : before running in the vs code setup the environment of python
 
 > Run successfully
 
