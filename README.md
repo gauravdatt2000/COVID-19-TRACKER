@@ -39,6 +39,9 @@ install command
 >NOte : before running in the vs code setup the environment of python
 
 > Run successfully
+
+
 ![](c1.PNG)
+
 
 ![](c2.PNG)
