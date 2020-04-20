@@ -13,7 +13,7 @@ What things you need to install the software and how to install them
 python install 
 ```
 
-### Installing python library for the project
+## Installing python library for the project
 Required python libraries
 
 >open cmd 
@@ -32,10 +32,10 @@ install command
 install command 
 >pip install plyer
 
-### Download the project
+## Download the project
 >Download the project by clicking on the ![](c3.PNG) which is on the up-right
 
-#### Run python project in VScode or pycharm
+## Run python project in VScode or pycharm
 >NOte : before running in the vs code setup the environment of python
 
 > Run successfully
