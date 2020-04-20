@@ -3,7 +3,7 @@
 COVID-19-TRACKER (INDIA) GUI using python
 The program tell us the latest data shared by the Indian gov.
 of covid-19 from the following website https://www.mohfw.gov.in/"
-The system also generates the notifiction as the programmer default
+The system also generates the notification as the default time set is 
 (5 min).
 ## Prerequisites
 
@@ -30,8 +30,15 @@ install command
 
 3)plyer
 install command 
-### Running the tests
+>pip install plyer
 
+### Download the project
+>Download the project by clicking on the ![](c3.PNG) which is on the up-right
+
+#### Run python project in VScode or pycharm
+>NOte : before running in the vs code setup the environment of python
+
+> Run successfully
 ![](c1.PNG)
 
 ![](c2.PNG)
