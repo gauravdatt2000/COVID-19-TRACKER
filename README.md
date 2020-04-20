@@ -1,6 +1,6 @@
 Required python libraries
 
->>open cmd 
+>open cmd 
 And cpy paste the following 
 install command
 
